@@ -84,7 +84,7 @@ We welcome contributors, partners, developers, mentors, and supporters from all 
 3.  **Commit your changes**
 4.  **Open a Pull Request**
 
-For partnerships or other contributions, please contact us at [sperkflow@gmail.com](mailto:sperkflow@gmail.com).
+For partnerships or other contributions, please contact us at [founder@sperkclub.online](mailto:founder@sperkclub.online).
 
 To join our school network or community hub, visit [our sign-up form](https://forms.gle/xuDnrZgTY5mBcf7j9).
 

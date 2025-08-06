@@ -56,3 +56,5 @@ The Sperkflow Ventures team is **young, ambitious, and still forming** — and w
 ---
 
 ## 📫 Contact Us
+
+[founder@sperkclub.online](mailto:founder@sperkclub.online)
